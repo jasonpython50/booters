@@ -1,0 +1,364 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-997-879
+INFO:werkzeug: * Detected change in 'C:\\Users\\simple_genius\\Desktop\\booters\\blog.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-997-879
+INFO:werkzeug:127.0.0.1 - - [20/Jun/2023 05:50:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jun/2023 05:52:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jun/2023 05:52:32] "GET /post/new HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jun/2023 05:52:38] "POST /post/new HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jun/2023 05:52:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\simple_genius\\Desktop\\booters\\blog.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-997-879
+INFO:werkzeug: * Detected change in 'C:\\Users\\simple_genius\\Desktop\\booters\\blog.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-997-879
+INFO:werkzeug: * Detected change in 'C:\\Users\\simple_genius\\Desktop\\booters\\blog.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-997-879
+INFO:werkzeug:127.0.0.1 - - [20/Jun/2023 05:55:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\simple_genius\\Desktop\\booters\\blog.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-997-879
+INFO:werkzeug:127.0.0.1 - - [20/Jun/2023 05:59:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jun/2023 05:59:44] "[35m[1mGET /post/new HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [20/Jun/2023 05:59:44] "GET /post/new?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jun/2023 05:59:44] "GET /post/new?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jun/2023 05:59:44] "GET /post/new?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jun/2023 05:59:44] "[36mGET /post/new?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\simple_genius\\Desktop\\booters\\blog.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-997-879
+INFO:werkzeug: * Detected change in 'C:\\Users\\simple_genius\\Desktop\\booters\\blog.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-997-879
+INFO:werkzeug: * Detected change in 'C:\\Users\\simple_genius\\Desktop\\booters\\blog.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-997-879
+INFO:werkzeug:127.0.0.1 - - [20/Jun/2023 06:00:43] "GET /post/new HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jun/2023 06:00:52] "GET /post/new HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jun/2023 06:01:02] "GET /post/new HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\simple_genius\\Desktop\\booters\\blog.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-997-879
+INFO:werkzeug:127.0.0.1 - - [20/Jun/2023 06:01:53] "GET /post/new HTTP/1.1" 200 -
+INFO:flask_wtf.csrf:The CSRF token is missing.
+INFO:werkzeug:127.0.0.1 - - [20/Jun/2023 06:01:59] "POST /post/new HTTP/1.1" 200 -
+INFO:flask_wtf.csrf:The CSRF token is missing.
+INFO:werkzeug:127.0.0.1 - - [20/Jun/2023 06:02:14] "POST /post/new HTTP/1.1" 200 -
+INFO:flask_wtf.csrf:The CSRF token is missing.
+INFO:werkzeug:127.0.0.1 - - [20/Jun/2023 06:02:16] "POST /post/new HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-997-879
+INFO:flask_wtf.csrf:The CSRF token is missing.
+INFO:werkzeug:127.0.0.1 - - [20/Jun/2023 06:05:50] "POST /post/new HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jun/2023 06:06:01] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [20/Jun/2023 06:06:01] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jun/2023 06:06:10] "[32mGET / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [20/Jun/2023 06:06:10] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jun/2023 06:06:20] "[32mPOST /login?next=/ HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [20/Jun/2023 06:06:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-997-879
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 00:39:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 00:39:56] "GET /post/new HTTP/1.1" 200 -
+INFO:flask_wtf.csrf:The CSRF token is missing.
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 00:40:11] "POST /post/new HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 00:40:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 00:54:55] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 00:54:55] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 00:55:02] "[32mGET / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 00:55:02] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 00:55:22] "[32mPOST /login?next=/ HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 00:55:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\simple_genius\\Desktop\\booters\\blog.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-997-879
+INFO:werkzeug: * Detected change in 'C:\\Users\\simple_genius\\Desktop\\booters\\blog.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-997-879
+INFO:werkzeug: * Detected change in 'C:\\Users\\simple_genius\\Desktop\\booters\\blog.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-997-879
+INFO:werkzeug: * Detected change in 'C:\\Users\\simple_genius\\Desktop\\booters\\blog.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-997-879
+INFO:werkzeug: * Detected change in 'C:\\Users\\simple_genius\\Desktop\\booters\\blog.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-997-879
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-997-879
+INFO:werkzeug: * Detected change in 'C:\\Users\\simple_genius\\Desktop\\booters\\blog.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-997-879
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 01:07:01] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 01:07:01] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 01:07:08] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 01:07:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 01:07:12] "GET /post/new HTTP/1.1" 200 -
+INFO:flask_wtf.csrf:The CSRF token is missing.
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 01:07:22] "POST /post/new HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 01:07:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-997-879
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 01:14:32] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 01:14:32] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 01:14:44] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 01:15:05] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 01:15:22] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 01:15:28] "GET /register HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 01:15:46] "[32mPOST /register HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 01:15:46] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 01:16:11] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 01:16:29] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 01:16:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 01:16:38] "GET /post/new HTTP/1.1" 200 -
+INFO:flask_wtf.csrf:The CSRF token is missing.
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 01:16:54] "POST /post/new HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 01:17:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 01:27:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 01:27:28] "GET /post/new HTTP/1.1" 200 -
+INFO:flask_wtf.csrf:The CSRF token is missing.
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 01:27:42] "POST /post/new HTTP/1.1" 200 -
+INFO:flask_wtf.csrf:The CSRF token is missing.
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 01:27:54] "POST /post/new HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 01:28:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 01:30:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 01:30:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 01:30:38] "GET /post/new HTTP/1.1" 200 -
+INFO:flask_wtf.csrf:The CSRF token is missing.
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 01:30:42] "POST /post/new HTTP/1.1" 200 -
+INFO:flask_wtf.csrf:The CSRF token is missing.
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 01:30:46] "POST /post/new HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 01:30:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\simple_genius\\Desktop\\booters\\blog.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-997-879
+INFO:werkzeug: * Detected change in 'C:\\Users\\simple_genius\\Desktop\\booters\\blog.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-997-879
+INFO:werkzeug: * Detected change in 'C:\\Users\\simple_genius\\Desktop\\booters\\blog.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-997-879
+INFO:werkzeug: * Detected change in 'C:\\Users\\simple_genius\\Desktop\\booters\\blog.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-997-879
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-997-879
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 01:41:49] "GET /post/new HTTP/1.1" 200 -
+INFO:flask_wtf.csrf:The CSRF token is missing.
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 01:41:55] "POST /post/new HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 01:42:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\simple_genius\\Desktop\\booters\\blog.py', reloading
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-997-879
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 01:46:44] "GET /post/new HTTP/1.1" 200 -
+INFO:flask_wtf.csrf:The CSRF token is missing.
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 01:46:51] "POST /post/new HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 01:46:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 01:48:13] "GET /post/new HTTP/1.1" 200 -
+INFO:flask_wtf.csrf:The CSRF token is missing.
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 01:48:23] "POST /post/new HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 01:48:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-997-879
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:08:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:08:08] "GET /post/1 HTTP/1.1" 200 -
+INFO:flask_wtf.csrf:The CSRF token is missing.
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:08:27] "POST /post/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:08:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:08:49] "GET /post/new HTTP/1.1" 200 -
+INFO:flask_wtf.csrf:The CSRF token is missing.
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:08:57] "POST /post/new HTTP/1.1" 200 -
+INFO:flask_wtf.csrf:The CSRF token is missing.
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:09:06] "POST /post/new HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:09:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:11:25] "GET /post/1 HTTP/1.1" 200 -
+INFO:flask_wtf.csrf:The CSRF token is missing.
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:11:36] "POST /post/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:11:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:12:22] "[32mGET / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:12:22] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:12:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:12:27] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:13:01] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:13:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:13:13] "GET /post/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:13:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:13:26] "GET /post/new HTTP/1.1" 200 -
+INFO:flask_wtf.csrf:The CSRF token is missing.
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:13:31] "POST /post/new HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:13:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\simple_genius\\Desktop\\booters\\blog.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-997-879
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:19:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:19:41] "GET /post/new HTTP/1.1" 200 -
+INFO:flask_wtf.csrf:The CSRF token is missing.
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:19:50] "POST /post/new HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:20:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\simple_genius\\Desktop\\booters\\blog.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-997-879
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:25:39] "GET /post/new HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:25:39] "GET /post/new HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:25:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:25:58] "GET /post/new HTTP/1.1" 200 -
+INFO:flask_wtf.csrf:The CSRF token is missing.
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:26:08] "POST /post/new HTTP/1.1" 200 -
+INFO:flask_wtf.csrf:The CSRF token is missing.
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:32:34] "POST /post/new HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:32:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:33:24] "GET /post/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:33:29] "[32mPOST /post/1 HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:33:29] "GET /post/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:33:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:34:07] "GET /post/new HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:34:18] "[32mPOST /post/new HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:34:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:34:39] "GET /post/2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:34:49] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:34:49] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:34:54] "[32mGET / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:34:54] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:34:58] "GET /register HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:35:26] "[32mPOST /register HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:35:26] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:36:01] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:36:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:36:17] "GET /post/new HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:36:26] "[32mPOST /post/new HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:36:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:36:33] "GET /post/3 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\simple_genius\\Desktop\\booters\\blog.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-997-879
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:41:08] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:42:19] "GET /account HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:42:47] "GET /account HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:42:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:42:58] "GET /account HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:43:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:43:16] "GET /post/3 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:43:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:43:37] "GET /post/new HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:43:51] "[32mPOST /post/new HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:43:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:43:56] "GET /post/4 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:47:30] "GET /post/4 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:47:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 02:47:51] "GET /post/1 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\simple_genius\\Desktop\\booters\\blog.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-997-879
+INFO:werkzeug: * Detected change in 'C:\\Users\\simple_genius\\Desktop\\booters\\blog.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-997-879
+INFO:werkzeug: * Detected change in 'C:\\Users\\simple_genius\\Desktop\\booters\\blog.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-997-879
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-997-879
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 03:00:33] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 03:00:33] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 03:00:40] "[35m[1mGET /forgot HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 03:00:41] "GET /forgot?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 03:00:41] "GET /forgot?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 03:00:41] "GET /forgot?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 03:00:41] "[36mGET /forgot?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 03:03:57] "[35m[1mGET /forgot HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 03:03:58] "[36mGET /forgot?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 03:03:58] "[36mGET /forgot?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 03:03:58] "[36mGET /forgot?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 03:03:58] "[36mGET /forgot?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 03:04:10] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 03:04:29] "[35m[1mGET /forgot HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 03:04:29] "[36mGET /forgot?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 03:04:29] "[36mGET /forgot?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 03:04:29] "[36mGET /forgot?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 03:04:29] "[36mGET /forgot?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\simple_genius\\Desktop\\booters\\blog.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 184-792-120
+INFO:werkzeug: * Detected change in 'C:\\Users\\simple_genius\\Desktop\\booters\\blog.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 184-792-120
+INFO:werkzeug: * Detected change in 'C:\\Users\\simple_genius\\Desktop\\booters\\blog.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-997-879
+INFO:flask_wtf.csrf:The CSRF token is missing.
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 03:14:13] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 03:14:26] "[35m[1mGET /forgot HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 03:14:26] "[36mGET /forgot?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 03:14:26] "[36mGET /forgot?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 03:14:26] "[36mGET /forgot?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 03:14:26] "[36mGET /forgot?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\simple_genius\\Desktop\\booters\\blog.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-997-879
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 03:16:24] "GET /forgot HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 03:16:41] "POST /forgot HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 03:18:41] "POST /forgot HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\simple_genius\\Desktop\\booters\\blog.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-997-879
+INFO:werkzeug: * Detected change in 'C:\\Users\\simple_genius\\Desktop\\booters\\blog.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-997-879
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 03:26:54] "POST /forgot HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2023 03:29:15] "POST /forgot HTTP/1.1" 200 -
