@@ -1,0 +1,6 @@
+# .gitignore file
+
+migrations/*
+error.txt
+
+instance/*
