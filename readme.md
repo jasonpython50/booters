@@ -1,15 +1,11 @@
-Blog Website
+# Blog Website
 This is a blog website built with Flask, a micro web framework written in Python.
-Features
-•
-User Registration
-•
-User Login & Logout
-•
-User account management
-•
-Blog Post Creation
-•
-Blog Post Interaction (Reading, Commenting)
-•
-Password Reset.
+
+## Features
+
+1. User Registration
+2. User Login & Logout
+3. User account management
+4. Blog Post Creation
+5. Blog Post Interaction (Reading, Commenting)
+6. Password Reset.
